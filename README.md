@@ -1,8 +1,8 @@
-### 👋 Hey there, 
+### 👋 Hey there,  
 
 I’m Nan, I’m a VP of Engineering at GitHub. I care about securing software, building high-performing teams, and fostering a culture of innovation.
 
-💞️ Outside of work, I love spending time with family, mastering the art of baking with my daughters, and traveling
+💞️ Outside of work, I love spending time with family, mastering the art of baking with my daughters, and traveling.
 
 💬 We can chat about:
 - 🛡️ All things Application Security
